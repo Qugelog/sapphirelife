@@ -1,10 +1,10 @@
 <?
 
 $sitebase = array(
-	"MySQL_Host" => "localhost",
-	"MySQL_Login" => "root",
-	"MySQL_Password" => "root",
-	"MySQL_DataBase" => "sapphire",
+	"MySQL_Host" => "sql6.freemysqlhosting.net",
+	"MySQL_Login" => "sql6424780",
+	"MySQL_Password" => "xXwmVRNlYT",
+	"MySQL_DataBase" => "sql6424780",
 );
 
 $realdir = '';
